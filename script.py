@@ -28,6 +28,6 @@ if name:
         f"<h2 style='text-align: center;'>Hello, {name}, ДУРА!</h2>",
         unsafe_allow_html=True
     )
-    st.image(r"C:\Users\Diana\Desktop\WelcomeScreen\dog.jpg",
+    st.image(r"dog.jpg",
         width=350)
     st.balloons()

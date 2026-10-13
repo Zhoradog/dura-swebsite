@@ -25,7 +25,7 @@ if name:
         unsafe_allow_html=True
     )
     st.markdown(
-        f"<h2 style='text-align: center;'>Hello, {name}, ДУРА!</h2>",
+        f"<h2 style='text-align: center;'> {name} ДУРА!</h2>",
         unsafe_allow_html=True
     )
     st.image(r"dog.jpg",
